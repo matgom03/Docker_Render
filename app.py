@@ -15,6 +15,7 @@ Se analizo un dataset para georeferenciar acerca de las finanzas de los hogares 
 Colombia. 
 
 En el menú lateral podrás navegar entre:
+- **Explicacion** del dataset  
 - **Dashboard** con análisis descriptivo.
 - **Mapa** interactivo de georreferenciación.
 """)
